@@ -1,5 +1,5 @@
 # PYTHON_FIFA_WORLD_CUP_ANALYSIS
-![App Screenshot](https://i.pinimg.com/736x/bd/cf/9b/bdcf9bc4601de1116450c75dfb34bb7e.jpg)
+<img src="(https://i.pinimg.com/736x/bd/cf/9b/bdcf9bc4601de1116450c75dfb34bb7e.jpg)" width="100" height="100">
 ## Description
 
 Le motif de ce projet est d'analyser les données de la Coupe du Monde de la FIFA, plus precisement de pouvoir prédire le vinqueur de la coupe du monde 2022. 
